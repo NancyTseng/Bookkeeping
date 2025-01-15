@@ -4,3 +4,11 @@
 ## 關聯圖
 ![sample image](https://github.com/NancyTseng/Bookkeeping/blob/main/assets/relation.PNG)
 
+## 範例
+
+SELECT * 
+FROM `living expenses` 
+WHERE date='2021-05-01'
+以上query可以查詢2021-05-01這一天的所有花費紀錄
+![sample image](https://github.com/NancyTseng/Bookkeeping/blob/main/assets/example.PNG)
+
